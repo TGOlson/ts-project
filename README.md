@@ -23,4 +23,8 @@ $ npm run exec
 
 $ npm run lint 
 # alias of: npx eslint src/ test/
+
+$ npm run test
+# alias of: npx jest
+# note: run `npx jest --watch` to rerun on changes
 ```
