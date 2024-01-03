@@ -7,6 +7,7 @@
     "build": "npx tsc",
     "watch": "npx tsc --watch",
     "exec": "node dist/index.js",
+    "lint": "npx eslint src/ test/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,9 @@
   },
   "homepage": "https://github.com/TGOlson/ts-project#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/parser": "^6.17.0",
+    "eslint": "^8.56.0",
     "typescript": "^5.3.3"
   }
 }

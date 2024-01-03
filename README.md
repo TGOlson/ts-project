@@ -20,4 +20,7 @@ $ npm run watch
 
 $ npm run exec 
 # alias for: node dist/index.js
+
+$ npm run lint 
+# alias of: npx eslint src/ test/
 ```

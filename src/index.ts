@@ -5,6 +5,6 @@ const main = () => {
 
   console.log(`Result: ${num}`);
   console.log('Done!');
-}
+};
 
 main();
