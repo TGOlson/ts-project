@@ -1,0 +1,27 @@
+[
+  {
+    "identity": 101,
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "telephone": "555-1234"
+  },
+  {
+    "identity": 102,
+    "full_name": "Alice Smith",
+    "email_address": "alice.smith@email.com",
+    "phone_number": "555-5678"
+  },
+  {
+    "identity": 103,
+    "first": "Bob",
+    "last": "Johnson",
+    "email_address": "bob.johnson@email.com",
+    "mobile": "555-9876"
+  },
+  {
+    "identity": 104,
+    "user": "jane_doe",
+    "email_address": "jane.doe@email.com",
+    "phone": "555-4321"
+  }
+]
