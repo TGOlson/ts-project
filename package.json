@@ -1,0 +1,25 @@
+{
+  "name": "ts-project",
+  "version": "0.0.1",
+  "description": "Basic scaffolding for a new TypeScript project",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "watch": "npx tsc --watch",
+    "exec": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGOlson/ts-project.git"
+  },
+  "author": "Tyler Olson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TGOlson/ts-project/issues"
+  },
+  "homepage": "https://github.com/TGOlson/ts-project#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
