@@ -8,6 +8,7 @@ Includes:
 * typescript (& config)
 * eslint (& config)
 * test scaffolding
+* `ramda` (for convenience methods)
 
 ### commands
 

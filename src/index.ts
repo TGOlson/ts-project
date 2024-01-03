@@ -1,4 +1,4 @@
-import { add } from "./add";
+import { add } from "./math";
 
 const main = () => {
   const num = add(1, 2);

@@ -22,10 +22,14 @@
   "homepage": "https://github.com/TGOlson/ts-project#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
+    "@types/ramda": "^0.29.9",
     "@typescript-eslint/eslint-plugin": "^6.17.0",
     "@typescript-eslint/parser": "^6.17.0",
     "eslint": "^8.56.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ramda": "^0.29.1"
   }
 }
