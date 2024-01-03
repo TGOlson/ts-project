@@ -4,10 +4,10 @@ Basic scaffolding for a new TypeScript project.
 
 Includes:
 
-* typescript (config + commands)
-* eslint (config)
 * basic directory structure
-* test scaffolding (config + commands)
+* typescript (& config)
+* eslint (& config)
+* test scaffolding
 
 ### commands
 
