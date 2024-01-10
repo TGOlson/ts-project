@@ -8,7 +8,8 @@
     "watch": "npx tsc --watch",
     "exec": "node dist/index.js",
     "lint": "npx eslint src/ test/",
-    "test": "npx jest"
+    "test": "npx jest",
+    "clean": "rm -rf dist/"
   },
   "repository": {
     "type": "git",
