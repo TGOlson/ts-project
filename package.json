@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx tsc",
     "watch": "npx tsc --watch",
-    "exec": "node dist/index.js",
+    "exec": "node dist/src/index.js",
     "lint": "npx eslint src/ test/",
     "test": "npx jest",
     "clean": "rm -rf dist/"
